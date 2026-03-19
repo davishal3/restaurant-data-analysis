@@ -114,7 +114,7 @@ The final output of this project includes:
 
 ## How to Run the Project
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/your-username/restaurant-data-analysis.git
 cd restaurant-data-analysis
